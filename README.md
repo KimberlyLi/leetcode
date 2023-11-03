@@ -29,3 +29,6 @@ ___
 >19: [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 >
 >2352: [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
+
+### Hard:
+>297: [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
